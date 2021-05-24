@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1609782630 source:c:\users\kerols\desktop\ass2ds\main.cpp
+	<iostream>
+	<fstream>
+	<Heap.h>
+	<Task.h>
+
+1609762269 source:c:\users\kerols\desktop\ass2ds\src\heap.cpp
+	"Heap.h"
+
+1609782782 c:\users\kerols\desktop\ass2ds\include\heap.h
+	<Task.h>
+	<iostream>
+
+1609782711 c:\users\kerols\desktop\ass2ds\include\task.h
+	<iostream>
+
+1609762408 source:c:\users\kerols\desktop\ass2ds\src\task.cpp
+	"Task.h"
+
